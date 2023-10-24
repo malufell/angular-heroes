@@ -6,6 +6,9 @@ Meus arquivos de estudo relacionados:
 
 [revisão sobre angular](https://gist.github.com/malufell/9a38b8f38c1f5d9ead385cb713470bed)
 
+[typescript](https://github.com/malufell/aprendendo-typescript)
+
+
 ## Sobre o projeto
 
 Gerado com [Angular CLI](https://github.com/angular/angular-cli) v16.2.5.
